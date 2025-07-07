@@ -1,0 +1,35 @@
+
+---
+
+### 🔗 LinkedIn Post Draft
+
+---
+
+🛠️ **Sick of pip yelling at you on Kali Linux?**  
+You’re not alone. Python packaging has become more strict on system-managed environments — which means:
+
+❌ `externally-managed-environment` errors  
+⚠️ Annoying “Running pip as root” warnings
+
+So I wrote a simple yet powerful **Bash script** that:
+
+✅ Sets up a virtual environment (the safe way)  
+✅ Optionally enables global pip fixes with safety prompts  
+✅ Works perfectly on Kali and other Debian-based systems
+
+📸 Check the before vs after results!  
+📜 Full code available on GitHub: *[Insert GitHub link]*
+
+🔒 Whether you're a developer or red teamer — this makes pip behave.
+
+#Python #KaliLinux #pip #DevTools #CyberSecurity #OpenSource #LinuxTips
+
+---
+
+Let me know if you'd like me to:
+
+- Zip the repo for upload
+- Generate a GitHub-ready version
+- Suggest a GitHub description and tags
+
+Just say the word!
